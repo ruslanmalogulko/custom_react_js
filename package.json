@@ -1,0 +1,41 @@
+{
+  "name": "react_custom",
+  "version": "1.0.0",
+  "description": "Custom react implementation just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "webpack --watch"
+  },
+  "dependencies": {
+    "livereload": "^0.7.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "webpack": "^4.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.3.0",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "browser-sync": "^2.23.6",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "css-loader": "^0.28.11",
+    "glob": "^7.1.2",
+    "postcss-loader": "^2.1.4",
+    "precss": "^3.1.2",
+    "react-loader": "^2.4.3",
+    "style-loader": "^0.21.0",
+    "webpack-cli": "^2.0.13",
+    "webpack-dev-server": "^3.1.1",
+    "webpack-livereload-plugin": "^2.1.1"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "study"
+  ],
+  "author": "Ruslan Malohulko",
+  "license": "ISC"
+}
